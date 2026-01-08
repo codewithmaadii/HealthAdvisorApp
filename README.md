@@ -103,5 +103,5 @@ Hammad Iqbal
 
 
 
-<img width="1080" height="2340" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 10" src="https://github.com/user-attachments/assets/9f1daa53-e20d-498d-b110-66557c083d39" />
+<img width="900" height="900" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 10" src="https://github.com/user-attachments/assets/9f1daa53-e20d-498d-b110-66557c083d39" />
 
