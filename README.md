@@ -105,9 +105,13 @@ Hammad Iqbal
 
 <img width="200" height="400" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 10" src="https://github.com/user-attachments/assets/9f1daa53-e20d-498d-b110-66557c083d39" />
 
-<img width="1080" height="1040" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 25" src="https://github.com/user-attachments/assets/4b8a4709-cb2a-43cf-b26d-74d7f32e0a72" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 25" src="https://github.com/user-attachments/assets/4b8a4709-cb2a-43cf-b26d-74d7f32e0a72" />
 
-<img width="1080" height="1040" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 16" src="https://github.com/user-attachments/assets/085d7577-eec0-481d-8982-e5508885ed9c" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 16" src="https://github.com/user-attachments/assets/085d7577-eec0-481d-8982-e5508885ed9c" />
 
-<img width="1080" height="1040" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 28" src="https://github.com/user-attachments/assets/dd6e92e0-2134-4bf1-b56e-e9c694970e05" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 28" src="https://github.com/user-attachments/assets/dd6e92e0-2134-4bf1-b56e-e9c694970e05" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 12 mini - 2025-09-29 at 11 30 33" src="https://github.com/user-attachments/assets/a2374396-ebfc-4938-bad7-fd9efde79bd8" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 16 Pro - 2026-01-05 at 16 39 14" src="https://github.com/user-attachments/assets/168ac15a-431b-4d71-a964-02d8b3d4c932" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 16 Pro - 2026-01-05 at 18 20 16" src="https://github.com/user-attachments/assets/35d79df7-1f4b-4947-8438-67e71a98f1c0" />
+
 
